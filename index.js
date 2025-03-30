@@ -1,1 +1,1 @@
-echo "console.log('Hello, devops!');  
+echo "console.log('Hello, devops');  
