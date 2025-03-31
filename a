@@ -1,4 +1,5 @@
 {
+  "repositoryUrl": "https://github.com/ajaykumart797/node_app",
   "branches": ["main"],
   "plugins": [
     ["@semantic-release/commit-analyzer", {
